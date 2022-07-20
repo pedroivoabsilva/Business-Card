@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_busness">Cartão de Visita</string>
+    <string name="cd_add_button">Botão de adicionar</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_email">E-Mail</string>
+    <string name="label_busness_name">Empresa</string>
+    <string name="label_color">Cor</string>
+    <string name="save_button">Botão de Salvar</string>
+    <string name="cd_close_button">Botão de Fechar</string>
+    <string name="lable_show_success">Cartão cadastrado com sucesso.</string>
+    <string name="label_share_to">Compartilhar</string>
+</resources>
